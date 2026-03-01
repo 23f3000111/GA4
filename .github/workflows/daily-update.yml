@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: 23f3000111@ds.study.iitm.ac.in - Daily Commit Step
+      - name: 23f3000786@ds.study.iitm.ac.in - Daily Commit Step
         run: |
           echo "Last updated on $(date -u)" >> daily_update.log
           
